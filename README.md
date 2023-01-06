@@ -3,10 +3,18 @@
 <!--
 **SanichMakakich/SanichMakakich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am currently studying at Moscow State University of civil engineering (MGSU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+Speciality : 09.03.01 Informatics and Computer Engineering (CAD-systems)
+
+Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the specialty Python-Backend development
+
+
+
+
+
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
