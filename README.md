@@ -8,4 +8,4 @@ Speciality : 09.03.01 Informatics and Computer Engineering (CAD-systems)
 
 Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the specialty Python-Backend development
 
-Email: myshkin.sanich@gmail.com
+Contact me: myshkin.sanich@gmail.com
