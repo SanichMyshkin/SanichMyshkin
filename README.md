@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+Status: looking for a job
 
 I am currently studying at [Moscow State University of civil engineering](https://mgsu.ru/)
 
@@ -10,7 +10,6 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 Contact me: myshkin.sanich@gmail.com
 
+## My Tech Stack
 
 
-## Github Stats
-![Metrics](/github-metrics.svg)
