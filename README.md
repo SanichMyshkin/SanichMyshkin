@@ -17,4 +17,7 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 ## My Tech Stack
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
