@@ -13,7 +13,7 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 * **Telegram**: [@Sanich](https://t.me/Sasnich)
 * **LinkedIn**: [Alexandr Myshkin](https://www.linkedin.com/in/alexandr-myshkin-90ba26256)
-* **Email**: myshkin.sanic@gmail.com
+* **Email**: myshkin.sanich@gmail.com
 
 ## My Tech Stack
 
