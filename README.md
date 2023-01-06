@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### About me
+ i'm a Python developer from Russia
+ 
+
 ### Education
 
 I am currently studying at [Moscow State University of civil engineering](https://mgsu.ru/)
