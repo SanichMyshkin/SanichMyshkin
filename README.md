@@ -12,10 +12,9 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 </div>
+
 ### Contacts
 
 * **Telegram**: [@Sanich](https://t.me/Sasnich)
