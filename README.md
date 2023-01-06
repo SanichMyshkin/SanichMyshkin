@@ -2,7 +2,7 @@
 
 
 
-I am currently studying at Moscow State University of civil engineering (MGSU)
+I am currently studying at [Moscow State University of civil engineering](https://mgsu.ru/)
 
 Speciality : 09.03.01 Informatics and Computer Engineering (CAD-systems)
 
