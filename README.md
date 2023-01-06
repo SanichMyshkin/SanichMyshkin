@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
- I'm a Python developer from Russia
+ i'm a Python developer from Russia
  
 
 ### Education
@@ -19,13 +19,14 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
 ### Contacts
 
 * **Telegram**: [@Sanich](https://t.me/Sasnich)
 * **LinkedIn**: [Alexandr Myshkin](https://www.linkedin.com/in/alexandr-myshkin-90ba26256)
 * **Email**: myshkin.sanich@gmail.com
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
