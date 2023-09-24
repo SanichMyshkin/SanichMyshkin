@@ -25,8 +25,3 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 * **LinkedIn**: [Alexandr Myshkin](https://www.linkedin.com/in/alexandr-myshkin-90ba26256)
 * **Email**: myshkin.sanich@gmail.com
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanichMakakich&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanichMakakich&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
