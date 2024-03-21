@@ -21,7 +21,7 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 ### Contacts
 
-* **Telegram**: [@Sanich](https://t.me/sanich_m)
+* **Telegram**: [@Sanich](https://t.me/imsanich)
 * **LinkedIn**: [Alexandr Myshkin](https://www.linkedin.com/in/alexandr-myshkin-90ba26256)
 * **Email**: myshkin.sanich@gmail.com
 
