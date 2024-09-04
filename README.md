@@ -8,12 +8,6 @@ Speciality : 09.03.01 Informatics and Computer Science (CAD-systems)
 Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the specialty Python-Backend development
 
 
-
-
-### Resume
-* LinkedIn: [Resume (EN)]()
-* HabrCareer: [Resume (RU)](https://career.habr.com/sanichmyshkin)
-
 ## Contacts
 
 * Email: [myshkin.sanich@gmail.com](mailto:myshkin.sanich@gmail.com)
