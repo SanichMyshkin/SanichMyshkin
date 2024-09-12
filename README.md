@@ -1,5 +1,5 @@
 ### About me
-Hello i'm Alexandr a Python developer from Russia
+Hello i'm Alexandr a DevOps engineer from Russia
 
 Currently studying at [Moscow State University of civil engineering](https://mgsu.ru/)
 
