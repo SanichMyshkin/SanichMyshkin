@@ -12,9 +12,7 @@ Additional education: [Hexlet](https://ru.hexlet.io/) platform courses on the sp
 
 * Email: [myshkin.sanich@gmail.com](mailto:myshkin.sanich@gmail.com)
 * Telegram: [@imsanich](https://t.me/imsanich)
-* Linkedin: [Alexandr Myshkin](https://www.linkedin.com/in/alexandrmyshkin/)
 
-[![LeetCode Stats](https://leetcode.card.workers.dev/SanichMakakich?theme=auto&font=baloo&extension=null)](https://leetcode.com/SanichMakakich/)
 
 
 
